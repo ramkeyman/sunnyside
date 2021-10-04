@@ -1,0 +1,331 @@
+body{
+	margin: 0px;
+}
+
+.opens{
+	display: grid;
+	grid-template-columns: 50% 50% ;
+}
+.titles{
+	text-align: left;
+	margin-top: -30px;
+
+}
+.titles p{
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+	padding-left:20px;
+}
+.toggle{
+	text-align: right;
+}
+.toggle i{
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+	padding-right: 20px;
+}
+.first{
+	background-color: #3DBEFF;
+	width: 100%;
+	height: 800px;
+}
+.first h1{
+	margin-top: 200px;
+	font-size: 60px;
+	color: white;
+	margin-top: 140px;
+}
+#imagea{
+	width: 800px;
+	margin-top: -286px;
+}
+.grid1{
+	display: grid;
+	grid-template-columns: 50% 50% ;
+    
+    padding: 0px;
+}
+.griditem1 {
+  background-color: rgba(255, 255, 255, 0.8);
+  
+ 
+  font-size: 30px;
+  text-align: center;
+  padding: 100px;
+  }
+  .griditem1 h2{
+  	text-align: left;
+  	font-size: 40px;
+  } 
+  .griditem1 p{
+  	text-align: left;
+  	font-size: 20px;
+  	opacity: .7;
+  } 
+  .griditem1 h4{
+  	text-align: left;
+  	font-size: 20px;
+  } 
+.griditem2 {
+  background-color: rgba(255, 255, 255, 0.8);
+  
+ 
+  font-size: 30px;
+  text-align: center;
+ 
+}
+.griditem2 img{
+	width: 100%;
+	height: 100%;
+}
+.grid2{
+	display: grid;
+	grid-template-columns: 50% 50%;
+
+    padding: 0px;
+}
+.griditem3 {
+  background-color: rgba(255, 255, 255, 0.8);
+  
+  font-size: 30px;
+  text-align: center;
+}
+.griditem3 img{
+	width: 100%;
+	height: 100%;
+}
+.griditem4 {
+  background-color: rgba(255, 255, 255, 0.8);
+  
+  font-size: 30px;
+  text-align: center;
+  padding: 100px;
+
+}
+.griditem4 h2{
+  	text-align: left;
+  	font-size: 40px;
+  } 
+  .griditem4 p{
+  	text-align: left;
+  	font-size: 20px;
+  	opacity: .7;
+  } 
+  .griditem4 h4{
+  	text-align: left;
+  	font-size: 20px;
+  } 
+.grid3{
+	display: grid;
+	grid-template-columns: 50% 50% ;
+    
+    padding: 0px;
+}
+.griditem5 {
+  background-color: rgba(255, 255, 255, 0.8);
+  
+  font-size: 30px;
+  text-align: center;
+  background-color: #b8e5da;
+}
+.griditem5 h3{
+	font-size: 30px;
+}
+.griditem5 p{
+	font-size: 20px;
+	padding: 20px;
+	opacity: .7;
+}
+.griditem6 {
+  background-color: rgba(255, 255, 255, 0.8);
+  
+  font-size: 30px;
+  text-align: center;
+  background-color: #77d1ff;
+}
+.griditem6 h3{
+	font-size: 30px;
+}
+.griditem6 p{
+	font-size: 20px;
+	padding: 20px;
+	opacity: .7;
+}
+
+.middles h2{
+	opacity: .7;
+}
+
+.seconds{
+	display: grid;
+	grid-template-columns: 32% 32% 32% ;
+}
+.ones {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 50px;
+
+  }
+  .ones img{
+  	border-radius: 100px;
+  }
+  .ones p{
+  	font-size: 20px;
+  	opacity: .8;
+  }
+  .ones h3{
+  	font-size: 20px;
+  }
+  .ones h4{
+  	font-size: 20px;
+  	opacity: .5;
+  }
+  .twos {
+  background-color: rgba(255, 255, 255, 0.8);
+  
+ 
+  
+  text-align: center;
+  padding: 50px;
+  }
+
+  .twos img{
+  	border-radius: 100px;
+  }
+  .twos p{
+  	font-size: 20px;
+  	opacity: .8;
+  }
+  .twos h3{
+  	font-size: 20px;
+  }
+  .twos h4{
+  	font-size: 20px;
+  	opacity: .5;
+  }
+  
+  .threes {
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 50px;
+  }
+  .threes img{
+  	border-radius: 100px;
+  }
+  .threes  p{
+  	font-size: 20px;
+  	opacity: .8;
+  }
+  .threes  h3{
+  	font-size: 20px;
+  }
+  .threes  h4{
+  	font-size: 20px;
+  	opacity: .5;
+  }
+
+.final{
+	display: grid;
+	grid-template-columns: 25% 25% 25% 25%;
+}
+.imagea{
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+}
+
+
+  .imageb{
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  
+
+  }
+
+  .imagec{
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+ 
+
+  }
+
+  .imaged{
+  background-color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  
+
+  }
+
+  .final img{
+  	width: 100%;
+  	height: 400px;
+  }
+
+ .footer{
+ 	width: 100%;
+ 	height: 300px;
+ 	background-color: #90d4c5;
+ 	margin-top: -5px;
+ }
+
+ .details{
+	display: grid;
+	grid-template-columns: 10% 10% 10% ;
+	padding-left: 610px;
+}
+.about{
+	text-align: center;
+}
+.service{
+	text-align: center;
+}
+.projects{
+	text-align: center;
+}
+
+.details p{
+	font-size: 18px;
+	opacity: .7;
+}
+.details a{
+	text-decoration: none;
+	font-size: 18px;
+	opacity: .7;
+	color: #000;
+}
+.footer h3{
+	font-size: 20px;
+	font-weight: bold;
+	font-family: ui-sans-serif,system-ui,
+	-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,
+	Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color 
+	Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+	opacity: .6;
+}
+
+.details a:hover{
+	color: #ffffff;
+}
+
+.icons{
+	display: grid;
+	grid-template-columns: 5% 5% 5% 5% ;
+	padding-left: 660px;
+}
+.facebook{
+	text-align: center;
+}
+.insta{
+	text-align: center;
+}
+.twitter{
+	text-align: center;
+}
+.pin{
+	text-align: center;
+}
+.icons i{
+	font-size: 20px;
+	opacity: .6;
+}
